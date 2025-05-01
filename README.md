@@ -2,21 +2,22 @@
 #### I am a Blockcahin and Full Stack Developer
 ![I am a Blockcahin and Full Stack Developer](https://github.com/mbcse/mbcse/blob/main/Copy%20of%20Blockchain%20%26%20Full%20Stack%20developer.png)
 
-Mohit is a passionate software developer. He calls himself Blockchain and Full Stack Developer and a generalist in tech as he has tried to gather knowledge of all fields while mastering some.
-He till now have worked with multiple organisations and he is an open source lover. Some of his achievements are being part of programs like Google Summer of Code, Summer of Bitcoin, Ethereum India Fellowship, etc. He is also winner of 25+ National and International Hackathons. He is also a blockchain and full stack speaker and educator. He have mentored 5000 + students till now. 
+Mohit is a passionate software developer with a strong focus on blockchain and full-stack development. He considers himself a generalist in tech and has gathered knowledge across various fields while mastering some. With years of experience in his field, Mohit has worked with several organizations and is an ardent supporter of open-source development. He is currently the FullStack Web3 Engineer at Fleek Network and In past, he was Lead Blockchain Engineer at Singularity Singapore. Mohit is also currently serving as a Project Admin and Mentor at ScoreLab Org in Google Summer of Code, showcasing his leadership skills and passion for helping others.
 
-Blockchain Experience: He has worked on multiple blockchains like Ethereum, Polygon, Binance, Casper, Stellar, Digital Bits, IPFS, Polkadot, tezos, nervos, Near, etc. Have built multiple NFT marketplace's, defi tokens under his work which are live on mainnet and currently working on building layer 2 blockchain and Zero Knowledge proofs. 
+His achievements are numerous, including being part of prestigious programs like Google Summer of Code, Summer of Bitcoin, Github Externship, and Ethereum India Fellowship. Mohit has won over 50+ national and international hackathons, including ETH Tokyo, Eth India, EthSingapore and Smart India Hackathon, demonstrating his exceptional talent and expertise.
 
-Full Stack Experience: He has knowledge of multiple tech stack like React, Node, Django,etc. He is currently working on mastering Rust .
+As a blockchain and full-stack speaker and educator, Mohit has mentored over 15,000 students, inspiring the next generation of developers. He has worked on multiple blockchains, including Ethereum, Polygon, Binance, Casper, Stellar, Digital Bits, IPFS, Polkadot, Tezos, Nervos, Near, and more. Mohit has also built multiple NFT marketplaces, Smart Wallets, and DeFi Applications that are live on mainnet, and he is currently working on building a cross chain infra protocol and zero-knowledge proofs.
 
-He is also a Hackathon geek and have participated in 40+ Hackathons, while bagging prizes in most of them. He is also a Blockchain speaker and have given many sessions under various organisations and initiatives like Upskill India, Blockchain school, script foundation and many more.
+Mohit's full-stack experience is diverse, including proficiency in multiple tech stacks like React, Java, Node, Django, and his current focus on mastering Rust. He has participated in over 50 hackathons, with a remarkable track record of winning prizes in most of them.
+
+As a blockchain speaker, Mohit has delivered numerous sessions under various organizations and initiatives, including Upskill India, Blockchain School, Script Foundation, AICTE, GSDC, and many more.
 
 Checkout my Linkedin to know more: https://www.linkedin.com/in/mbcse/
 
 Skills: NodeJs / Blockchain / JS / HTML / CSS/  / AWS / React / Web3
 
 - 🔭 I’m currently working on Blockchain 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently mastering Rust 
 - 👯 I’m looking to collaborate on web3 
 - 💬 Ask me about Blockchain, Full Stack and Open source 
 - 📫 How to reach me: mbcse50@gmail.com 
